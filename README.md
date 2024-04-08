@@ -1,10 +1,10 @@
 # ChessGame With Using C++ OOP
 
 ## Description
-This is a simple chess game that is implemented using C++ OOP. It the project of my learning C++ OOP.
-The game is playing in console, and the pieces are represented by unicode characters.
-Unicode display is using Windows's WriteConsoleW function(with overrided operator<<) to display, so it may not work on other platforms.
-(I try to use wcout, but it doesn't work well with unicode characters, if you know how to fix it, please let me know)
+This is a simple chess game that is implemented using C++ OOP. It's the project of my learning C++ OOP.  
+The game is playing in console, and the pieces are represented by unicode characters.  
+Unicode display is using Windows's WriteConsoleW function(with overrided operator<<) to display, so it may not work on other platforms.  
+~~(I try to use wcout, but it doesn't work well with unicode characters, if you know how to fix it, please let me know)~~  
 
 ## Environment
 - Windows 11
