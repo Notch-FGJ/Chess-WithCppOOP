@@ -1,5 +1,4 @@
 #pragma once
-#define NOMINMAX
 #include <windows.h>    // For WCHAR
 #include <utility>      // For std::pair
 
